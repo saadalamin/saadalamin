@@ -28,4 +28,9 @@
         <loc>https://saadalamin.com/test</loc>
         <lastmod>2021-08-25</lastmod>
     </url>
+    <url>
+        <loc>https://saadalamin.com/</loc>
+        <lastmod>2024-02-10</lastmod>
+        <changefreq>Select</changefreq>
+    </url>
 </urlset>
